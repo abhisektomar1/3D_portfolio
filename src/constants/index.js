@@ -63,11 +63,6 @@ export const skills = [
         type: "Database",
     },
     {
-        imageUrl: motion,
-        name: "Motion",
-        type: "Animation",
-    },
-    {
         imageUrl: mui,
         name: "Material-UI",
         type: "Frontend",
@@ -111,11 +106,11 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "React.js Developer",
-        company_name: "Starbucks",
+        title: "Senior Software Developer",
+        company_name: "Drillmaps",
         icon: starbucks,
         iconBg: "#accbe1",
-        date: "March 2020 - April 2021",
+        date: "August 2023 - Present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -124,11 +119,11 @@ export const experiences = [
         ],
     },
     {
-        title: "React Native Developer",
-        company_name: "Tesla",
+        title: "React Developer",
+        company_name: "Drillmaps",
         icon: tesla,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "Aug 2022 - Aug 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -138,23 +133,10 @@ export const experiences = [
     },
     {
         title: "Web Developer",
-        company_name: "Shopify",
+        company_name: "Naptastic Studios",
         icon: shopify,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
-    {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
+        date: "March 2022 - Aug 2022",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -173,12 +155,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/abhisektomar1',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/abhishek-tomar-22a94b21a/',
     }
 ];
 
